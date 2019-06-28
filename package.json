@@ -1,0 +1,23 @@
+{
+  "name": "react-native-beacons",
+  "version": "1.0.0",
+  "description": "react native beacons for me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yslee9311/react-native-beacons.git"
+  },
+  "keywords": [
+    "react",
+    "beacons"
+  ],
+  "author": "YoungSoo Lee <yslee9311@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yslee9311/react-native-beacons/issues"
+  },
+  "homepage": "https://github.com/yslee9311/react-native-beacons#readme"
+}
